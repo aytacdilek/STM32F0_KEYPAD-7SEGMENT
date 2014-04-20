@@ -13,4 +13,4 @@ Development Environment:  STM32F0DISCOVERY
 
 [![STM32F0_KEYPAD-7SEGMENT_schematic](https://github.com/aytacdilek/STM32F0_KEYPAD-7SEGMENT/blob/master/hardware/KEYPAD_7SEGMENT.png?raw=true)](#features)
 
-[![Youtube Video Demo](https://github.com/aytacdilek/STM32F0_74HC595/blob/master/hardware/thumbnail.jpg?raw=true)](http://www.youtube.com/watch?v=IGCiHr_uP4Y)
+[![Youtube Video Demo](https://github.com/aytacdilek/STM32F0_KEYPAD-7SEGMENT/blob/master/hardware/youtube-image.jpg?raw=true)](http://www.youtube.com/watch?v=mgwU8YbFPdo)
